@@ -6,6 +6,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
     String name  = " Con ga con";
+    String email = "hoangquiminh@gmail.com";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
